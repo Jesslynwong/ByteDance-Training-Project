@@ -1,10 +1,10 @@
-import ShowBOX from './components/ShowBOX'
+import MainPage from './components/main_page'
 
 
 function App() {
   return (
     <div className="App">
-        <ShowBOX/>
+        <MainPage/>
     </div>
   );
 }
